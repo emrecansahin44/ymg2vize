@@ -1,5 +1,5 @@
 pipeline {
-    agent any // arka planda çalışması için
+    agent any 
     environment{
         PATH = "C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files\\Git\\bin;C:\\Windows\\System32"
         IMAGE_NAME = "vmg2vize"
