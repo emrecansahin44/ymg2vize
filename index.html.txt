@@ -1,9 +1,12 @@
-html
-body
-    emrecan şahin
+<html>
+
+
+
+<body>
+    emrecan sahin
     02210224061
-     bu bir sınav sayfasıdır.
-body
+     bu bir sinav sayfasidir.
+<body>
 
 
-html
+<html>
